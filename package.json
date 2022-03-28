@@ -1,0 +1,27 @@
+{
+  "name": "design-scaffold-project-choice-looks-worse-than-my-figma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/design-scaffold-project-choice-looks-worse-than-my-figma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/design-scaffold-project-choice-looks-worse-than-my-figma/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/design-scaffold-project-choice-looks-worse-than-my-figma#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}

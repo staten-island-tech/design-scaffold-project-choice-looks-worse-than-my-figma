@@ -1,0 +1,177 @@
+@import url(variables.css);
+
+html,
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.blog-background {
+  background-color: var(--white);
+}
+.blog-header {
+  display: flex;
+  background-color: var(--red);
+}
+
+.blog-title {
+  font-size: var(--h2);
+  text-align: center;
+  padding: 1rem;
+  font-family: "Inspiration", cursive;
+  color: var(--white);
+  margin: 1rem;
+}
+.desk-nav {
+  font-size: var(--h2);
+  display: flex;
+  padding: 1rem;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+  margin-top: 1.5rem;
+}
+
+.nav-item-desk {
+  margin: 5rem;
+  margin-bottom: 5rem;
+  color: var(--white);
+  font-family: "Oswald", sans-serif;
+  font-size: var(--h3);
+}
+
+.second-header {
+  text-align: center;
+  margin: 5rem;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+}
+
+.articles {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+}
+
+.img-preview {
+  height: 30rem;
+  width: 40rem;
+  display: flex;
+}
+
+.article-link {
+  font-size: var(--h3);
+  margin: 0.5rem;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+}
+
+.article-author {
+  font-size: var(--h4);
+  font-family: "Oswald", sans-serif;
+}
+
+.article-description {
+  font-size: var(--h5);
+  font-family: "Oswald", sans-serif;
+}
+
+.home-background {
+  background-image: url(https://wallpaper.dog/large/20491977.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header-container {
+  margin: auto;
+  margin-top: 5rem;
+  padding: 5rem;
+  font-family: "Oswald", sans-serif;
+  height: 75%;
+  width: 85%;
+}
+
+.header-title {
+  margin-top: 20rem;
+  text-align: center;
+  font-family: "Inspiration", cursive;
+  color: var(--white);
+  font-size: 20rem;
+}
+
+.desks-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.navs-item-desk {
+  font-size: var(--h3);
+  margin: 5rem;
+  color: var(--yellow);
+  font-family: "Oswald", sans-serif;
+  padding: 5rem;
+}
+
+.article-background {
+  background-color: white;
+}
+
+.deskss-nav {
+  background-color: var(--red);
+  font-size: var(--h2);
+  display: flex;
+  padding: 2rem;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+}
+
+.navss-item-desk {
+  margin: 5rem;
+  margin-bottom: 5rem;
+  color: var(--white);
+  font-family: "Oswald", sans-serif;
+  font-size: var(--h3);
+}
+
+.headers-title {
+  text-align: center;
+  margin: 5rem;
+  color: var(--red);
+}
+
+.figure-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 50%;
+}
+
+p {
+  font-size: var(--h4);
+  margin: 1rem auto;
+  width: 50%;
+  padding: 3rem;
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+  color: var(--red);
+  text-align: center;
+}
+
+.troll-face {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.copyright {
+  margin-top: 30rem;
+  font-size: var(--h5);
+}
