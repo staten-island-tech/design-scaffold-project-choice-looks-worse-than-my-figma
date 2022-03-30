@@ -3,7 +3,7 @@ title: A New Way to Cook Chicken
 author: Jason N
 date: 2022-25-04
 tags: ["post", "featured"]
-image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&tbnid=DH7p1w2o_fIU8M&vet=12ahUKEwj6v5S32uf2AhVhEFkFHUcID_MQMygCegUIARDYAQ..i&docid=Ba_eiczVaD9-zM&w=771&h=480&q=image&ved=2ahUKEwj6v5S32uf2AhVhEFkFHUcID_MQMygCegUIARDYAQ
+image: https://hips.hearstapps.com/del.h-cdn.co/assets/17/02/1484246711-raw-chicken-strips.jpg
 imageAlt: this is a test
 description: lorem
 ---

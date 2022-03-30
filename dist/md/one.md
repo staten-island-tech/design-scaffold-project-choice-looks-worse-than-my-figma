@@ -1,11 +1,43 @@
 ---
-title: idk
-author: eric
+title: A New Way to Cook Chicken
+author: Jason N
 date: 2022-25-04
 tags: ["post", "featured"]
-image: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&tbnid=DH7p1w2o_fIU8M&vet=12ahUKEwj6v5S32uf2AhVhEFkFHUcID_MQMygCegUIARDYAQ..i&docid=Ba_eiczVaD9-zM&w=771&h=480&q=image&ved=2ahUKEwj6v5S32uf2AhVhEFkFHUcID_MQMygCegUIARDYAQ
+image: https://hips.hearstapps.com/del.h-cdn.co/assets/17/02/1484246711-raw-chicken-strips.jpg
 imageAlt: this is a test
 description: lorem
 ---
 
-A blog (a truncation of "weblog")[1] is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, "multi-author blogs" (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other "microblogging" systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.
+
+A more tender steak can be achieved through cooking one with a with a pink center and a golden brown crust. So why not the same with chicken? For the past week, I've been cooking my chicken like I do with my steak. A nice golden edge with a hue of bright pink in the middle. Bacteria lingers on the surface of the meat so searing the outside should theoretically decontaminate the meat. Ever since this new awakening, I've experienced nothing but happiness. No longer should I suffer through dry, bland chicken. Just like our ancesetors, we are destined to consume raw meat. A little bit of all spice seasoning is all it takes to make a pink chicken taste as tender as the ones from Popeyes. 
+
+Start off by making sure to not wash your meat. The water splashing your on your chicken with contaminate the the cooking area, risking food poisoning and we do not want that. Pat your meat dry and place the the towel next to your tissue box for further use in the future. Next, grab your chicken and put in back in the freezer. You want to shock the meat and make it confused. This has the effect of making it softer because the meat will now have an identity crisis by not knowing whether it's going to be cooked or be refrozen. While you're at this, preheat a non stick skillet and use a metal fork to help spread the oil around the pan
+
+Take the chickn out of the freezer after leaving it in there for about half an hour. Make sure the pan is searing hot and toss the chicken in. Cook for about 20 minutes. Once your chicken is nice and black, take it off the heat and let it rest on a plate for 5 minutes. If you follow these instructions, you'll be greeted by a delicious jerk style chicken that helps strengthen your teeth. A raw diced onion to garnish and a cup of apple juice should be enjoyed on the side. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay tuned for my next recipe of how to eat raw lamb without getting worms
+
+
