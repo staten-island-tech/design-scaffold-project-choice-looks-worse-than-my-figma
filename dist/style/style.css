@@ -25,28 +25,29 @@ body,
   color: var(--white);
   margin: 1rem;
 }
-.desk-nav {
-  font-size: var(--h2);
-  display: flex;
-  padding: 1rem;
-  font-family: "Oswald", sans-serif;
-  color: var(--red);
-  margin-top: 1.5rem;
-}
 
-.nav-item-desk {
-  margin: 5rem;
-  margin-bottom: 5rem;
-  color: var(--white);
-  font-family: "Oswald", sans-serif;
-  font-size: var(--h3);
-}
 
 .second-header {
   text-align: center;
   margin: 5rem;
   font-family: "Oswald", sans-serif;
   color: var(--red);
+}
+
+
+.img-preview {
+  height: 45rem;
+  width: 40rem;
+  display: flex;
+
+}
+
+.figure-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40rem;
+  height: 45rem;
 }
 
 .articles {
@@ -57,13 +58,6 @@ body,
   align-items: center;
   font-family: "Oswald", sans-serif;
   color: var(--red);
-}
-
-.img-preview {
-  height: 45rem;
-  width: 40rem;
-  display: flex;
-
 }
 
 .article-link {
@@ -81,6 +75,10 @@ body,
 .article-description {
   font-size: var(--h5);
   font-family: "Oswald", sans-serif;
+}
+
+.article-background {
+  background-color: white;
 }
 
 .home-background {
@@ -106,22 +104,12 @@ body,
   font-size: 20rem;
 }
 
-.desks-nav {
-  display: flex;
-  justify-content: center;
-}
-
-.navs-item-desk {
-  font-size: var(--h3);
+.headers-title {
+  text-align: center;
   margin: 5rem;
-  color: var(--yellow);
-  font-family: "Oswald", sans-serif;
-  padding: 5rem;
+  color: var(--red);
 }
 
-.article-background {
-  background-color: white;
-}
 
 .deskss-nav {
   background-color: var(--red);
@@ -132,6 +120,21 @@ body,
   color: var(--red);
 }
 
+.desks-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.desk-nav {
+  font-size: var(--h2);
+  display: flex;
+  padding: 1rem;
+  font-family: "Oswald", sans-serif;
+  color: var(--red);
+  margin-top: 1.5rem;
+}
+
+
 .navss-item-desk {
   margin: 5rem;
   margin-bottom: 5rem;
@@ -140,18 +143,20 @@ body,
   font-size: var(--h3);
 }
 
-.headers-title {
-  text-align: center;
+.navs-item-desk {
+  font-size: var(--h3);
   margin: 5rem;
-  color: var(--red);
+  color: var(--yellow);
+  font-family: "Oswald", sans-serif;
+  padding: 5rem;
 }
 
-.figure-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  height: 50%;
+.nav-item-desk {
+  margin: 5rem;
+  margin-bottom: 5rem;
+  color: var(--white);
+  font-family: "Oswald", sans-serif;
+  font-size: var(--h3);
 }
 
 p {

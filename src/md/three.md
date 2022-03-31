@@ -4,7 +4,7 @@ author: Eric
 date: 2022-25-04
 tags: ["post", "featured"]
 image: https://i.pinimg.com/736x/35/85/7a/35857abc3778a6127be41fd3d3d2f7e9--bully-xxl-bully-pitbull.jpg
-description: lorem
+description: Considering the idea of owning a pitbull? Don't worry, your kids will love it
 ---
 
 Contrary to popular belief, it's not dangerous to keep large pitbulls around small children. As a person who has owned a pitbull for 2 months, I can say for certain that Snowball would never eat my child. When I leave him alone with my 4 year old son, I can hear him frothing and salivating from the mouth. Do not take concern of this. Large pitbulls need extra ventilation and this "aggressive" behavior" can be attributed to the dry air during winter months. 

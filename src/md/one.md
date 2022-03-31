@@ -5,7 +5,7 @@ date: 2022-25-04
 tags: ["post", "featured"]
 image: https://hips.hearstapps.com/del.h-cdn.co/assets/17/02/1484246711-raw-chicken-strips.jpg
 imageAlt: this is a test
-description: lorem
+description: Tired of dry chicken? Try our new recipe, you won't regret it
 ---
 
 

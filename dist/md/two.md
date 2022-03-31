@@ -5,7 +5,7 @@ date: 2022-25-04
 tags: ["post", "featured"]
 image: https://i.redd.it/954gcji3tjv41.png
 imageAlt: this is a test
-description: lorem
+description: Tired of being a LOSER. Hop on the grindset and daytrade your troubles away
 ---
 
 Not everyone is created equal. Some are born strong. Some are born weak. But very few are born as natural sigma males. But don't worry, it's not over for you. Because if you follow these steps, you too can be better than an alpha
