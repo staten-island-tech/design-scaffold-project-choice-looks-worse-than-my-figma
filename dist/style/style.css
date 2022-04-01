@@ -175,3 +175,55 @@ p {
   margin-top: 30rem;
   font-size: var(--h5);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tom:hover{
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+
+}
+
+.dun:hover{
+  transform: matrix(0.5, 0.6, 0.7, 0.8, 0.9, 1)
+}
+
+.lordsavior:hover{
+  transform: rotate(0.5turn);
+}
+
+.bingchili:hover{
+  display: none;
+}
+
+.bingchili{
+  transition: all 1s ease-in;
+  z-index: 2;
+}
+
+.see{
+  position: absolute;
+  top: 90rem;
+  left: 90rem;
+  z-index: -1;
+}
+
+.title {
+  animation-duration: 2s;
+  animation-name: slidein;
