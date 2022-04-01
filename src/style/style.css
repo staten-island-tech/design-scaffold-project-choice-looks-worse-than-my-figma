@@ -151,7 +151,8 @@ body,
   padding: 5rem;
 }
 
-.nav-item-desk {
+.nav-item-desk { 
+
   margin: 5rem;
   margin-bottom: 5rem;
   color: var(--white);
