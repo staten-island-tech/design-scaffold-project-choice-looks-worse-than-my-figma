@@ -159,7 +159,6 @@ body,
   font-family: "Oswald", sans-serif;
   font-size: var(--h3);
 
-
 }
 
 p {
@@ -179,7 +178,10 @@ p {
 }
 
 
-
+.nav-item-desk:hover{
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
 
 
 
