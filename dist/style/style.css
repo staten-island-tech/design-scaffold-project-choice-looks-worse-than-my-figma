@@ -14,6 +14,7 @@ body,
 }
 .blog-header {
   display: flex;
+  justify-content:space-between;
   background-color: var(--red);
 }
 
@@ -24,7 +25,9 @@ body,
   font-family: "Inspiration", cursive;
   color: var(--white);
   margin: 1rem;
+  margin-left:5rem;
 }
+
 
 .second-header {
   text-align: center;
@@ -33,10 +36,12 @@ body,
   color: var(--red);
 }
 
+
 .img-preview {
   height: 45rem;
   width: 40rem;
   display: flex;
+
 }
 
 .figure-image {
@@ -107,6 +112,7 @@ body,
   color: var(--red);
 }
 
+
 .deskss-nav {
   background-color: var(--red);
   font-size: var(--h2);
@@ -119,6 +125,7 @@ body,
 .desks-nav {
   display: flex;
   justify-content: center;
+  list-style:none;
 }
 
 .desk-nav {
@@ -130,6 +137,7 @@ body,
   margin-top: 1.5rem;
 }
 
+
 .navss-item-desk {
   margin: 5rem;
   margin-bottom: 5rem;
@@ -140,13 +148,33 @@ body,
 
 .navs-item-desk {
   font-size: var(--h3);
-  margin: 5rem;
-  color: var(--yellow);
-  font-family: "Oswald", sans-serif;
-  padding: 5rem;
+  margin: 10rem;
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+  color: rgb(109, 26, 192);
+  padding: 2px 3px;
+  transition: color ease 0.3s;
 }
-
-.nav-item-desk {
+.navs-item-desk:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 2px;
+  left: 0;
+  bottom: 0;
+  background-color: #FFF;
+  transition: all ease 0.15s;
+}
+.navs-item-desk:hover {
+  color: #efefef;
+}
+.navs-item-desk:hover::after {
+  background-color: #79c5df;
+  height: 100%;
+}
+.nav-item-desk { 
   margin: 5rem;
   margin-bottom: 5rem;
   color: var(--white);
@@ -170,7 +198,12 @@ p {
   font-size: var(--h5);
 }
 
-.desk-nav::before {
+.desk{
+  margin-right:5rem;
+}
+
+
+.desk-nav::before {  
   transform: scaleX(0);
   transform-origin: bottom right;
 }
@@ -184,14 +217,11 @@ p {
   content: " ";
   display: block;
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
   inset: 0 0 0 0;
   background: hsl(200 100% 80%);
   z-index: -1;
-  transition: transform 0.3s ease;
+  transition: transform .3s ease;
 }
 
 .desk-nav {
@@ -199,29 +229,49 @@ p {
   font-size: 5rem;
 }
 
-.tom:hover {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tom:hover{
   animation: shake 0.5s;
   animation-iteration-count: infinite;
+
 }
 
-.dun:hover {
-  transform: matrix(0.5, 0.6, 0.7, 0.8, 0.9, 1);
+.dun:hover{
+  transform: matrix(0.5, 0.6, 0.7, 0.8, 0.9, 1)
 }
 
-.lordsavior:hover {
+.lordsavior:hover{
   transform: rotate(0.5turn);
 }
 
-.bingchili:hover {
+.bingchili:hover{
   display: none;
 }
 
-.bingchili {
+.bingchili{
   transition: all 1s ease-in;
   z-index: 2;
 }
 
-.see {
+.see{
   position: absolute;
   top: 90rem;
   left: 90rem;
