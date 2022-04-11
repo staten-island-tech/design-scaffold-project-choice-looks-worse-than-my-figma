@@ -14,8 +14,12 @@ body,
 }
 .blog-header {
   display: flex;
+<<<<<<< HEAD
   background-color: var(--color1);
   
+=======
+  background-color: var(--red);
+>>>>>>> parent of fafc5bc (1)
 }
 
 .blog-title {
