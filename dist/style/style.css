@@ -14,8 +14,7 @@ body,
 }
 .blog-header {
   display: flex;
-  background-color: var(--color1);
-  
+  background-color: var(--red);
 }
 
 .blog-title {
