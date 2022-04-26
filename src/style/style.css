@@ -31,9 +31,10 @@ body,
 
 .second-header {
   text-align: center;
-  margin: 5rem;
+  padding: 5rem;
   font-family: "Oswald", sans-serif;
   color: var(--color1);
+  background-color: var(--color2);
 }
 
 
@@ -80,7 +81,7 @@ body,
 }
 
 .article-background {
-  background-color: color2;
+  background-color: var(--color2);
 }
 
 .home-background {
@@ -306,9 +307,9 @@ p {
     right: 0;
     top: 0;
   }
-  .desk.responsive .nav-item-desk {
+  .desk.responsive .des {
     float: none;
-    display: block;
+    display: bloock;
     text-align: left;
   }
 }
