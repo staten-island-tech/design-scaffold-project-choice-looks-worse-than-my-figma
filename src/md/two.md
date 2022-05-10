@@ -24,7 +24,7 @@ Step 4: Take an ice cold shower after your morning 30 mile jog. Remember to not 
 
 Step 5: Sit alone at the lunch table. It's not that you have no friends, it's that they don't deserve to be in your presence
 
-Step 6: Pull the plug on your grandpa and invest his chemo treatment into the S&M 500
+Step 6: Pull the plug on your grandpa and invest his chemo treatment into the S&P 500
 
 Step 7: Eat babies
 
