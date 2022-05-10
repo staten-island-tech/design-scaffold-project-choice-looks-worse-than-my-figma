@@ -31,9 +31,10 @@ body,
 
 .second-header {
   text-align: center;
-  margin: 5rem;
+  padding: 5rem;
   font-family: "Oswald", sans-serif;
   color: var(--color1);
+  background-color: var(--color2);
 }
 
 
@@ -117,8 +118,10 @@ body,
 
 .headers-title {
   text-align: center;
-  margin: 5rem;
+  padding: 5rem;
   color: var(--color1);
+  background-color: var(--color2);
+  
 }
 
 
