@@ -20,13 +20,15 @@ Step 3: Do not use toilet paper. Time spent wiping your rear is time lost from d
 
 
 
-Step 4: Take an ice cold shower after your morning 30 mile jog. Remember to not use deodorant
+Step 4: Take an ice cold shower after burning down an orphanage. Who are they going to tell, their parents?
 
-Step 5: Sit alone at the lunch table. It's not that you have no friends, it's that they don't deserve to be in your presence
+Step 5: Sit alone at the lunch table. It's not because you don't wear deodorant, it's that they're too intimidated by your aura
 
 Step 6: Pull the plug on your grandpa and invest his chemo treatment into the S&P 500
 
-Step 7: Eat babies
+Step 7; Make your own rules for punctuation\ It keeps your critiques on edge
+
+Step 8: Eat babies
 
 
 
