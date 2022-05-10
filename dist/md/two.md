@@ -14,7 +14,19 @@ Step 1: Be late to work. A true sigma male works according to his own schedule.
 
 Step 2: Avoid all eye contact with women. They seek to only distract you from your grindset
 
+<<<<<<< Updated upstream
 Step 3: Do not use toilet paper. Only a weak beta seeks to please other people around him
+=======
+<<<<<<< HEAD
+
+
+Step 3: Do not use toilet paper. Time spent wiping your rear is time lost from day trading
+
+
+=======
+Step 3: Do not use toilet paper. Only a weak beta seeks to please other people around him
+>>>>>>> 0db86143fbbe22226cbb8812f96806bb17946a98
+>>>>>>> Stashed changes
 
 Step 4: Take an ice cold shower after your morning 30 mile jog. Remember to not use deodorant
 
