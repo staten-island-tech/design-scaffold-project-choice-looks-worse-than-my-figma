@@ -14,16 +14,17 @@ Start off by making sure to not wash your meat. The water splashing your on your
 
 Take the chicken out of the freezer after leaving it in there for about half an hour. Make sure the pan is searing hot and toss the chicken in. Cook for about 20 minutes. Once your chicken is nice and black, take it off the heat and let it rest on a plate for 5 minutes. If you follow these instructions, you'll be greeted by a delicious jerk style chicken that helps strengthen your teeth. A raw diced onion to garnish and a cup of apple juice should be enjoyed on the side.
 <<<<<<< Updated upstream
+
+Stay tuned for my next recipe of how to eat raw pig sushi without getting worms
+
+
 =======
 
 <<<<<<< HEAD
 Stay tuned for my next recipe of how to eat raw pig sushi without getting worms
 
->>>>>>> Stashed changes
 
 =======
 Stay tuned for my next recipe of how to eat raw lamb without getting worms
-<<<<<<< Updated upstream
-=======
 >>>>>>> 0db86143fbbe22226cbb8812f96806bb17946a98
 >>>>>>> Stashed changes
