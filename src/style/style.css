@@ -233,3 +233,7 @@ p {
   background-color: #79c5df;
   height: 100%;
 }
+
+.main-article{
+  background-color: var(--color2);
+}
