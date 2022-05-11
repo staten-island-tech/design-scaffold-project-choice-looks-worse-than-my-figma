@@ -125,15 +125,6 @@ body,
 }
 
 
-.deskss-nav {
-  background-color: var(--color1);
-  font-size: var(--h2);
-  display: flex;
-  padding: 2rem;
-  font-family: "Oswald", sans-serif;
-  color: var(--color1);
-}
-
 .home-nav {
   display: flex;
   justify-content: center;
