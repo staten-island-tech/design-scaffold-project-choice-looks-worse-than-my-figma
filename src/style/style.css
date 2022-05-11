@@ -112,7 +112,7 @@ body,
   margin-top: 20rem;
   text-align: center;
   font-family: "Inspiration", cursive;
-  color: var(--color2);
+  color: rgb(235, 235, 235);
   font-size: 20rem;
 }
 
@@ -134,13 +134,13 @@ body,
   color: var(--color1);
 }
 
-.desks-nav {
+.home-nav {
   display: flex;
   justify-content: center;
   list-style:none;
 }
 
-.desk-nav {
+.nav {
   font-size: var(--h2);
   display: flex;
   padding: 1rem;
@@ -150,15 +150,7 @@ body,
 }
 
 
-.navss-item-desk {
-  margin: 5rem;
-  margin-bottom: 5rem;
-  color: var(--color2);
-  font-family: "Oswald", sans-serif;
-  font-size: var(--h3);
-}
-
-.navs-item-desk {
+.home-bar {
   font-size: var(--h3);
   margin: 10rem;
   position: relative;
@@ -168,7 +160,7 @@ body,
   padding: 2px 3px;
   transition: color ease 0.3s;
 }
-.navs-item-desk:after {
+.home-bar:after {
   content: "";
   position: absolute;
   z-index: -1;
@@ -179,10 +171,10 @@ body,
   background-color: #FFF;
   transition: all ease 0.15s;
 }
-.navs-item-desk:hover {
+.home-bar:hover {
   color: #efefef;
 }
-.navs-item-desk:hover::after {
+.home-bar:hover::after {
   background-color: #79c5df;
   height: 100%;
 }
