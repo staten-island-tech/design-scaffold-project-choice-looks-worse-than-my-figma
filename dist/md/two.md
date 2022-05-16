@@ -22,7 +22,7 @@ Step 3: Do not use toilet paper. Time spent wiping your rear is time lost from d
 
 Step 4: Take an ice cold shower after burning down an orphanage. Who are they going to tell, their parents?
 
-Step 5: Sit alone at the lunch table. It's not because you don't wear deodorant, it's that they're too intimidated by your aura
+Step 5: Sit alone at the lunch table. It's not because you have no friends, it's because you don't wear deodorant
 
 Step 6: Pull the plug on your grandpa and invest his chemo treatment into the S&P 500
 
