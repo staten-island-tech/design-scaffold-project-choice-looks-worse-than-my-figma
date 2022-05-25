@@ -195,6 +195,7 @@ p {
 
 .desk{
   margin-right:5rem;
+  background-color: var(--color1);
 }
 
 

@@ -26,7 +26,7 @@ Step 5: Sit alone at the lunch table. It's not because you have no friends, it's
 
 Step 6: Pull the plug on your grandpa and invest his chemo treatment into the S&P 500
 
-Step 7: Make your own rules for punctuation\ It keeps your critiques on edge
+Step 7: Make your own rules for punctuation/ It keeps your critiques on edge
 
 Step 8: Eat babies
 
